@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kiFUBYsO0Fs=",
+  "dgSpecHash": "Q0cPWtfGl4V00cx2VDJ0c7mrzefG10FbuIWV0KRihVBPrlh6xi8chqzhj2C45AudAzv5lTCwOd48ymTDbOJtQQ==",
   "success": true,
   "projectFilePath": "/home/et12alumno/CalzaDer/CalzaDer/CalzaDer.csproj",
-  "expectedPackageFiles": [
-    "/home/et12alumno/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
-    "/home/et12alumno/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
